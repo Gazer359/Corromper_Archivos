@@ -45,6 +45,11 @@ Licencia: 🕳️ Nada de licencias, todo se pierde en el abismo.
     Observa con terror cómo tu archivo es alterado o eliminado del plano existencial.
 
 ---
+### 💻 DEMO
+![Image](https://github.com/user-attachments/assets/f372e61e-ae0e-40f0-89d8-7d75e7eaf52c)
+
+
+---
 
 ## 🛑 Disclaimer
 
