@@ -47,8 +47,9 @@ Licencia: 🕳️ Nada de licencias, todo se pierde en el abismo.
 ---
 ### 💻 DEMO
 ![Image](https://github.com/user-attachments/assets/f372e61e-ae0e-40f0-89d8-7d75e7eaf52c)
-https://github.com/user-attachments/assets/0c77d3b2-c276-4e7f-b237-bbac0aea25e7
 
+---
+![Image](https://github.com/user-attachments/assets/0c77d3b2-c276-4e7f-b237-bbac0aea25e7)
 
 ---
 
